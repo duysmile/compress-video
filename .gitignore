@@ -1,3 +1,5 @@
 video/*
 converted.h264
 converted.mp4
+node_modules
+package-lock.json
